@@ -26,6 +26,12 @@
 
 [Protocol Code Documentation](https://ola-simple.github.io/OLASimple-Protocols/)
 
+Aquarium code link
+
+Archived Aquarium code link
+
+Aquarium paper link
+
 ## Data
 
 ### PDF of Aquarium's Automatically Generated Protocol
