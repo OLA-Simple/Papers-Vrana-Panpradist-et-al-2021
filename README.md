@@ -32,6 +32,8 @@ Archived Aquarium code link
 
 Aquarium paper link
 
+link to analysis code
+
 ## Data
 
 ### PDF of Aquarium's Automatically Generated Protocol
