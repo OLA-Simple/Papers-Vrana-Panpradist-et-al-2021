@@ -1,6 +1,6 @@
 # Implementation of same-day HIV drug resistance assay in Kenya
 
-**Authors**: Justin D Vrana1,*, Nuttada Panpradist1,2,*, Nikki Higa3, Daisy Ko3, Parker Ruth1,4,Ruth Kanthula1,3, James Lai1, Yaoyu Yang5, Michael M Chung5.7, Lisa M Frenkel2,8, Barry R Lutz1, Eric Klavins1,8,⍏, Ingrid A Beck3,⍏
+**Authors**: Justin D Vrana<sup>1,*</sup>, Nuttada Panpradist<sup>1,2,*</sup>, Nikki Higa<sup>3</sup>, Daisy Ko<sup>3</sup>, Parker Ruth<sup>1,4</sup>,Ruth Kanthula<sup>1,3</sup>, James Lai<sup>1</sup>, Yaoyu Yang<sup>5</sup>, Michael M Chung<sup>5.7</sup>, Lisa M Frenkel<sup>2,8</sup>, Barry R Lutz<sup>1</sup>, Eric Klavins<sup>5⍏</sup>, Ingrid A Beck<sup>3,⍏</sup>
 
 **Affiliations**:
 1  Department of Bioengineering, University of Washington, Seattle, Washington, USA
