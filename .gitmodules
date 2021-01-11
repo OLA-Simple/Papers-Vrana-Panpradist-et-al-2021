@@ -1,5 +1,5 @@
 [submodule "docs"]
-	path = protocols
+	path = docs
 	url = https://github.com/OLA-Simple/OLASimple-Protocols
 [submodule "aquarium"]
 	path = aquarium
